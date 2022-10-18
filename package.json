@@ -6,8 +6,8 @@
   "homepage": "https://saragibby.github.io/my-portfolio-site",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://saragibby.github.io/my-portfolio-site'",
+    "build": "parcel build --public-url 'https://saragibby.github.io/my-portfolio-site'",
+    "build-gh": "parcel build",
     "predeploy" : "npm run build-gh",
     "deploy" : "gh-pages -d dist"
   },
