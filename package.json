@@ -2,6 +2,7 @@
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
+  "homepage": "http://saragibby.github.io/my-portfolio",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
