@@ -7,7 +7,7 @@
     "start": "parcel",
     "build": "parcel build",
     "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "deploy" : "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
   },
-  "homepage": "https://saragibby.github.io/my-portfolio-site",
+  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
